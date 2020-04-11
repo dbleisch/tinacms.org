@@ -8,7 +8,7 @@ Tina is a **lightweight but powerful toolkit** for creating a content editing in
 
 ## The Next Generation of Content Management
 
-![tina-gif](https://res.cloudinary.com/forestry-demo/video/upload/du_16,w_700,e_loop/v1571159974/tina-hero-demo.gif)
+[![tina-gif](https://res.cloudinary.com/forestry-demo/video/upload/du_16,w_700,e_loop/v1571159974/tina-hero-demo.gif)](demo.ch "demo.ch")
 
 Tina is optimized for next-gen JAMstack tools. It is written in JavaScript and easily adapted to multiple different frameworks.
 
@@ -46,7 +46,7 @@ If you want to dive deep, start by learning more about [how Tina works](/docs/ge
 * [Tina Grande](https://github.com/tinacms/tina-starter-grande) — A more advanced starter to showcase the power of Tina.
 * [Tina Brevifolia](https://github.com/kendallstrautman/brevifolia-gatsby-tinacms) — A Markdown-based blog with minimalist design and Tina for editing.
 
-Want to add your starter? Make a [PR](/docs/contributing/guidelines) to add your Tina site to this list.
+Want to add your [strengh](demo.ch "Demo")? Make a [PR](/docs/contributing/guidelines) to add your Tina site to this list.
 
 ## Get Involved
 
